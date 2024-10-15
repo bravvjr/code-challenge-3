@@ -97,4 +97,4 @@ let selectedFilm = null;
       } else {
         alert('Sold out! No more tickets available.');
       }
-    });
+    }); 
